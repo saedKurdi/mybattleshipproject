@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\Asus\source\repos\mybattleshipgame\StartTheGame.h(44,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Asus\source\repos\mybattleshipgame\FOR AUTO.h(18,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Asus\source\repos\mybattleshipgame\FOR AUTO.h(53,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Asus\source\repos\mybattleshipgame\FOR AUTO.h(67,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Asus\source\repos\mybattleshipgame\Source.cpp(4,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Asus\source\repos\mybattleshipgame\FOR AUTO.h(42): warning C4715: placeShip: значение возвращается не при всех путях выполнения
+  mybattleshipgame.vcxproj -> C:\Users\Asus\source\repos\mybattleshipgame\x64\Debug\mybattleshipgame.exe
